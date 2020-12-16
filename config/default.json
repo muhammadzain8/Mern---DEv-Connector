@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Mzain:z998Thb0C7PT7DpW@cluster0.erjhk.mongodb.net/Mern_Practice?retryWrites=true&w=majority",
+    "jwtSecret":"totalSecretha"
+}
